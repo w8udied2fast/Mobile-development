@@ -10,7 +10,8 @@
         android:id="@+id/title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Настройки"
+        android:text="Settings"
+        android:layout_gravity="center_horizontal"
         android:textSize="24sp"
         android:layout_marginBottom="20dp"
         android:textColor="#FFFFFF"/>
@@ -25,7 +26,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Размер шрифта"
+            android:text="Font Size"
             android:textColor="#FFFFFF"/>
 
         <SeekBar
@@ -41,7 +42,8 @@
         android:id="@+id/aboutApp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="О программе"
+        android:text="About"
+        android:layout_gravity="center_horizontal"
         android:textSize="18sp"
         android:textColor="#FFD700"
         android:layout_marginTop="30dp"

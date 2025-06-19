@@ -60,8 +60,8 @@ public class SettingsActivity extends AppCompatActivity {
 
     private void showAboutDialog() {
         new AlertDialog.Builder(this)
-                .setTitle("О программе")
-                .setMessage("Автор - Маркидонов Сергей Юрьевич\nГруппа - 23ИСП6")
+                .setTitle("About")
+                .setMessage("Author - Sergei Markidonov\nGroup - 23ISP6")
                 .setPositiveButton("OK", null)
                 .show();
     }
