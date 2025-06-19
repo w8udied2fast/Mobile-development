@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chordify</string>
+    <string name="favorite">Favorite</string>
+    <string name="chordify">Chordify</string>
+    <string name="search">Search</string>
+    <string name="input_chord">Start typing chord</string>
+</resources>
